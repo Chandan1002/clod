@@ -1,1 +1,1 @@
-# plygons
+# polygons
